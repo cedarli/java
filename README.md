@@ -1,0 +1,4 @@
+java
+====
+
+android  jdk1.5 and jdk1.6 switch
